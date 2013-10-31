@@ -9,5 +9,7 @@ of the devices that we use everyday? Throughout the workshop, participants will 
 immediately readable as poetry, which also compiles or is executable.
 
 http://ccthenradiate.org/
+
 www.renee-carmichael.com
+
 http://opensystem.org.uk/
