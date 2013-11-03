@@ -8,6 +8,8 @@ narrative and poetry. How, through exploration and creation instead of demonstra
 of the devices that we use everyday? Throughout the workshop, participants will be able to create code that is 
 immediately readable as poetry, which also compiles or is executable.
 
+Click on the Wiki for more information.
+
 http://ccthenradiate.org/
 
 www.renee-carmichael.com
